@@ -1,0 +1,69 @@
+body {
+    background-color: #0F1014;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Roboto Mono", sans-serif;
+    color: #83F52C;
+    font-weight: 300;
+    font-size: 40px;
+    margin: 25px 0 0 0;
+}
+
+.subhead {
+    font-family: "Roboto Mono", sans-serif;
+    color: #83F52C;
+    font-weight: 300;
+    font-size: 30px;
+    border-bottom: 1px solid #83F52C;
+    display: inline-block;
+    padding: 0 10px;
+    margin: 50px auto 20px auto;
+}
+
+.timer {
+    font-family: "Roboto Mono", monospace;
+    /* font-family: "Share Tech Mono", monospace; */
+    color: #ff0099;
+    font-size: 36px;
+    font-weight: 300;
+    margin: 0;
+}
+
+iframe {
+    width: 80vw;
+    height: 48vw;
+    border: 5px solid #ff6600;
+    margin: 50px auto;
+}
+
+#event-logo {
+    margin-top: 30px;
+    margin-bottom: 0;
+    /* width: 100% */
+}
+
+.header-div {
+    /* width: 60vw; */
+}
+
+.dj-logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.dj-logos img {
+    width: 150px;
+    margin: 20px;
+}
+
+p {
+    color: #ff0099;
+    font-size: 20px;
+    width: 500px;
+    font-family: "Roboto Mono", monospace;
+    margin: 20px auto 50px auto;
+}
